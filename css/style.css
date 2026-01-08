@@ -16,3 +16,6 @@
 @import url(./home/parceiros.css);
 @import url(./home/depoimentos.css);
 @import url(./seguros/seguros.css);
+
+/* bicicletas */
+@import url(./bicicletas/bicicletas.css);
