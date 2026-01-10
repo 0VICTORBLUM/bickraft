@@ -1,5 +1,6 @@
 @import url(./global/global.css);
 @import url(./termos/termos.css);
+@import url(./orcamento/orcamento.css);
 
 /* header e footer */
 @import url(./global/header.css);
