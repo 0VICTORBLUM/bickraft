@@ -1,4 +1,5 @@
 @import url(./global/global.css);
+@import url(./termos/termos.css);
 
 /* header e footer */
 @import url(./global/header.css);
