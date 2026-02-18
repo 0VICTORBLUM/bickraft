@@ -42,10 +42,10 @@ Treinar e consolidar:
 
 Todo o desenvolvimento foi realizado por mim, incluindo:
 
-- implementação do layout
 - estruturação semântica das páginas
 - estilização responsiva
 - integração de scripts em JavaScript
+- implementação do layout
 
 O design e o código foram desenvolvidos seguindo as instruções do curso, com execução própria e validação posterior.
 
