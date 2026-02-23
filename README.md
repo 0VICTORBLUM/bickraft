@@ -53,9 +53,10 @@ O design e o código foram desenvolvidos seguindo as instruções do curso, com 
 
 ## 🚀 Publicação
 
-O projeto ainda não foi publicado.
+Este projeto está hospedado na plataforma vercel
 
-A hospedagem será feita em breve utilizando a plataforma Vercel.
+🔗 Link de acesso: 
+https://projectbickraft.vercel.app/
 
 ---
 
